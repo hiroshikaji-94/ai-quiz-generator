@@ -4,6 +4,8 @@
  An intelligent quiz generation platform powered by AI and real-time updates
 </p>
 
+Live Demo: https://kosidigital.vercel.app
+
 <p align="center">
   <a href="#features"><strong>Features</strong></a> ·
   <a href="#tech-stack"><strong>Tech Stack</strong></a> ·
@@ -63,8 +65,8 @@ AI Quiz Generator is a modern web application that creates interactive quizzes u
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
-   cd Astral
+   git clone https://github.com/build-with-deepak/ai-quiz-generator.git
+   cd ai-quiz-generator
    ```
 
 2. **Install dependencies**
@@ -151,7 +153,7 @@ AI Quiz Generator is a modern web application that creates interactive quizzes u
 ## 📁 Project Structure
 
 ```
-Astral/
+ai-quiz-generator/
 ├── app/
 │   ├── api/
 │   │   └── lessons/
